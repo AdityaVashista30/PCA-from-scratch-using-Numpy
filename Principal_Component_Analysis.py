@@ -1,6 +1,5 @@
 
 # ### Load the Data and Libraries
-get_ipython().run_line_magic('matplotlib', 'inline')
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
